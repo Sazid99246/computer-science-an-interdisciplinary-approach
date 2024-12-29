@@ -39,6 +39,7 @@
     "Application.HelloWorld.executor": "Run",
     "Application.TenHelloWorld.executor": "Run",
     "Application.UseArgument.executor": "Run",
+    "Application.UseThree.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
