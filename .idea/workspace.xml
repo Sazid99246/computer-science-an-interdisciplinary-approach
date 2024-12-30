@@ -40,6 +40,7 @@
     "Application.HelloWorldMultilingual.executor": "Run",
     "Application.Initials.executor": "Run",
     "Application.TenHelloWorld.executor": "Run",
+    "Application.ThreeSort.executor": "Run",
     "Application.UniformRandomNumbers.executor": "Run",
     "Application.UseArgument.executor": "Run",
     "Application.UseThree.executor": "Run",
