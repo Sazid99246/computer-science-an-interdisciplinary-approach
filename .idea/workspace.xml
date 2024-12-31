@@ -34,31 +34,55 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorldMultilingual.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Initials.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TenHelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreeSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UniformRandomNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UseArgument.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UseThree.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EvenlyDivisible.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.HelloWorldMultilingual.executor": "Run",
+    "Application.Initials.executor": "Run",
+    "Application.IntOps.executor": "Run",
+    "Application.Quadratic.executor": "Run",
+    "Application.TenHelloWorld.executor": "Run",
+    "Application.ThreeSort.executor": "Run",
+    "Application.TriangleTest.executor": "Run",
+    "Application.UniformRandomNumbers.executor": "Run",
+    "Application.UseArgument.executor": "Run",
+    "Application.UseThree.executor": "Run",
+    "Application.chapter1.section2.examples.Ruler.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.TriangleTest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
+    <configuration name="EvenlyDivisible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.EvenlyDivisible" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="10 12" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IntOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.examples.IntOps" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="1234 99 12" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TriangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.TriangleTest" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="3 4 10" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
@@ -67,6 +91,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.TriangleTest" />
+      <item itemvalue="Application.EvenlyDivisible" />
+      <item itemvalue="Application.IntOps" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TriangleTest" />
+        <item itemvalue="Application.EvenlyDivisible" />
+        <item itemvalue="Application.IntOps" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
 </project>
