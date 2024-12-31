@@ -43,6 +43,7 @@
     "Application.IntOps.executor": "Run",
     "Application.Quadratic.executor": "Run",
     "Application.RandomNumberGenerator.executor": "Run",
+    "Application.RandomSum.executor": "Run",
     "Application.TenHelloWorld.executor": "Run",
     "Application.ThreeSort.executor": "Run",
     "Application.TriangleTest.executor": "Run",
@@ -58,7 +59,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RandomNumberGenerator">
+  <component name="RunManager" selected="Application.SumOfTwoDice">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -81,6 +82,12 @@
       <option name="PROGRAM_PARAMETERS" value="20 50" />
       <method v="2" />
     </configuration>
+    <configuration name="SumOfTwoDice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.SumOfTwoDice" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TriangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.TriangleTest" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -99,6 +106,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.SumOfTwoDice" />
       <item itemvalue="Application.RandomNumberGenerator" />
       <item itemvalue="Application.TriangleTest" />
       <item itemvalue="Application.EvenlyDivisible" />
@@ -106,6 +114,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfTwoDice" />
         <item itemvalue="Application.RandomNumberGenerator" />
         <item itemvalue="Application.TriangleTest" />
         <item itemvalue="Application.EvenlyDivisible" />
