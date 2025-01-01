@@ -41,6 +41,7 @@
     "Application.HelloWorldMultilingual.executor": "Run",
     "Application.Initials.executor": "Run",
     "Application.IntOps.executor": "Run",
+    "Application.LoanPayments.executor": "Run",
     "Application.Quadratic.executor": "Run",
     "Application.RandomNumberGenerator.executor": "Run",
     "Application.RandomSum.executor": "Run",
@@ -62,10 +63,16 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SpringSeason">
+  <component name="RunManager" selected="Application.LoanPayments">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="LoanPayments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.LoanPayments" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="10 10000 5" />
+      <method v="2" />
     </configuration>
     <configuration name="RandomNumberGenerator" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.RandomNumberGenerator" />
@@ -91,12 +98,6 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="TriangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.TriangleTest" />
-      <module name="computer-science-an-interdisciplinary-approach" />
-      <option name="PROGRAM_PARAMETERS" value="3 4 10" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2" />
@@ -109,19 +110,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.LoanPayments" />
       <item itemvalue="Application.SpringSeason" />
       <item itemvalue="Application.SumOfSines" />
       <item itemvalue="Application.SumOfTwoDice" />
       <item itemvalue="Application.RandomNumberGenerator" />
-      <item itemvalue="Application.TriangleTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoanPayments" />
         <item itemvalue="Application.SpringSeason" />
         <item itemvalue="Application.SumOfSines" />
         <item itemvalue="Application.SumOfTwoDice" />
         <item itemvalue="Application.RandomNumberGenerator" />
-        <item itemvalue="Application.TriangleTest" />
       </list>
     </recent_temporary>
   </component>
