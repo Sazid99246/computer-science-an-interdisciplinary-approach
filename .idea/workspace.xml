@@ -44,6 +44,7 @@
     "Application.Quadratic.executor": "Run",
     "Application.RandomNumberGenerator.executor": "Run",
     "Application.RandomSum.executor": "Run",
+    "Application.SpringSeason.executor": "Run",
     "Application.SumOfSines.executor": "Run",
     "Application.SumOfTwoDice.executor": "Run",
     "Application.TenHelloWorld.executor": "Run",
@@ -61,21 +62,21 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SumOfSines">
+  <component name="RunManager" selected="Application.SpringSeason">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-    </configuration>
-    <configuration name="EvenlyDivisible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.EvenlyDivisible" />
-      <module name="computer-science-an-interdisciplinary-approach" />
-      <option name="PROGRAM_PARAMETERS" value="10 12" />
-      <method v="2" />
     </configuration>
     <configuration name="RandomNumberGenerator" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.RandomNumberGenerator" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="20 50" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringSeason" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.SpringSeason" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="2 28" />
       <method v="2" />
     </configuration>
     <configuration name="SumOfSines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -108,19 +109,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.SpringSeason" />
       <item itemvalue="Application.SumOfSines" />
       <item itemvalue="Application.SumOfTwoDice" />
       <item itemvalue="Application.RandomNumberGenerator" />
       <item itemvalue="Application.TriangleTest" />
-      <item itemvalue="Application.EvenlyDivisible" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpringSeason" />
         <item itemvalue="Application.SumOfSines" />
         <item itemvalue="Application.SumOfTwoDice" />
         <item itemvalue="Application.RandomNumberGenerator" />
         <item itemvalue="Application.TriangleTest" />
-        <item itemvalue="Application.EvenlyDivisible" />
       </list>
     </recent_temporary>
   </component>
