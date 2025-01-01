@@ -58,6 +58,7 @@
     "Application.WIndChill.executor": "Run",
     "Application.chapter1.section2.examples.RandomInt.executor": "Run",
     "Application.chapter1.section2.examples.Ruler.executor": "Run",
+    "Application.chapter1.section2.exerecises.AscedingOrDescending.executor": "Run",
     "Application.chapter1.section2.exerecises.RandomGaussian.executor": "Run",
     "Application.chapter1.section2.exerecises.WIndChill.executor": "Run",
     "Attach to process.pid 13608.executor": "ProcessAttachDebug",
@@ -69,7 +70,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section2.exerecises.RandomGaussian">
+  <component name="RunManager" selected="Application.chapter1.section2.exerecises.AscedingOrDescending">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -114,6 +115,12 @@
       <option name="PROGRAM_PARAMETERS" value="12 3" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section2.exerecises.AscedingOrDescending" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.AscendingOrDescending" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="13 12 5" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section2.exerecises.RandomGaussian" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.RandomGaussian" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -128,6 +135,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.chapter1.section2.examples.RandomInt" />
+      <item itemvalue="Application.chapter1.section2.exerecises.AscedingOrDescending" />
       <item itemvalue="Application.chapter1.section2.exerecises.RandomGaussian" />
       <item itemvalue="Application.LeapYear" />
       <item itemvalue="Application.WIndChill" />
