@@ -34,41 +34,51 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.EvenlyDivisible.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorldMultilingual.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Initials.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntOps.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoanPayments.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Quadratic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RandomNumberGenerator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RandomSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpringSeason.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfSines.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfTwoDice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TenHelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreeSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TriangleTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UniformRandomNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UseArgument.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UseThree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WIndChill.executor&quot;: &quot;Run&quot;,
-    &quot;Application.chapter1.section2.examples.Ruler.executor&quot;: &quot;Run&quot;,
-    &quot;Application.chapter1.section2.exerecises.WIndChill.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EvenlyDivisible.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.HelloWorldMultilingual.executor": "Run",
+    "Application.Initials.executor": "Run",
+    "Application.IntOps.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.LoanPayments.executor": "Run",
+    "Application.Quadratic.executor": "Run",
+    "Application.RandomNumberGenerator.executor": "Run",
+    "Application.RandomSum.executor": "Run",
+    "Application.SpringSeason.executor": "Run",
+    "Application.SumOfSines.executor": "Run",
+    "Application.SumOfTwoDice.executor": "Run",
+    "Application.TenHelloWorld.executor": "Run",
+    "Application.ThreeSort.executor": "Run",
+    "Application.TriangleTest.executor": "Run",
+    "Application.UniformRandomNumbers.executor": "Run",
+    "Application.UseArgument.executor": "Run",
+    "Application.UseThree.executor": "Run",
+    "Application.WIndChill.executor": "Run",
+    "Application.chapter1.section2.examples.RandomInt.executor": "Run",
+    "Application.chapter1.section2.examples.Ruler.executor": "Run",
+    "Application.chapter1.section2.exerecises.RandomGaussian.executor": "Run",
+    "Application.chapter1.section2.exerecises.WIndChill.executor": "Run",
+    "Attach to process.pid 13608.executor": "ProcessAttachDebug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.WIndChill">
+}]]></component>
+  <component name="RunManager" selected="Application.chapter1.section2.exerecises.RandomGaussian">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.examples.LeapYear" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="1900" />
+      <method v="2" />
     </configuration>
     <configuration name="LoanPayments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.LoanPayments" />
@@ -88,12 +98,6 @@
       <option name="PROGRAM_PARAMETERS" value="30" />
       <method v="2" />
     </configuration>
-    <configuration name="SumOfTwoDice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.SumOfTwoDice" />
-      <module name="computer-science-an-interdisciplinary-approach" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <configuration name="WIndChill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.WIndChill" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -104,6 +108,17 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section2.examples.RandomInt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.examples.RandomInt" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="12 3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section2.exerecises.RandomGaussian" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.RandomGaussian" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -112,19 +127,21 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section2.examples.RandomInt" />
+      <item itemvalue="Application.chapter1.section2.exerecises.RandomGaussian" />
+      <item itemvalue="Application.LeapYear" />
       <item itemvalue="Application.WIndChill" />
       <item itemvalue="Application.LoanPayments" />
       <item itemvalue="Application.SpringSeason" />
       <item itemvalue="Application.SumOfSines" />
-      <item itemvalue="Application.SumOfTwoDice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.WIndChill" />
         <item itemvalue="Application.LoanPayments" />
         <item itemvalue="Application.SpringSeason" />
         <item itemvalue="Application.SumOfSines" />
-        <item itemvalue="Application.SumOfTwoDice" />
       </list>
     </recent_temporary>
   </component>
