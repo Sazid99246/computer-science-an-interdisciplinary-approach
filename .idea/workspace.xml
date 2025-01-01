@@ -54,7 +54,9 @@
     "Application.UniformRandomNumbers.executor": "Run",
     "Application.UseArgument.executor": "Run",
     "Application.UseThree.executor": "Run",
+    "Application.WIndChill.executor": "Run",
     "Application.chapter1.section2.examples.Ruler.executor": "Run",
+    "Application.chapter1.section2.exerecises.WIndChill.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "project.structure.last.edited": "Project",
@@ -63,7 +65,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LoanPayments">
+  <component name="RunManager" selected="Application.WIndChill">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -72,12 +74,6 @@
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.LoanPayments" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="10 10000 5" />
-      <method v="2" />
-    </configuration>
-    <configuration name="RandomNumberGenerator" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.RandomNumberGenerator" />
-      <module name="computer-science-an-interdisciplinary-approach" />
-      <option name="PROGRAM_PARAMETERS" value="20 50" />
       <method v="2" />
     </configuration>
     <configuration name="SpringSeason" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -98,6 +94,12 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="WIndChill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.WIndChill" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="20 30" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2" />
@@ -110,19 +112,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.WIndChill" />
       <item itemvalue="Application.LoanPayments" />
       <item itemvalue="Application.SpringSeason" />
       <item itemvalue="Application.SumOfSines" />
       <item itemvalue="Application.SumOfTwoDice" />
-      <item itemvalue="Application.RandomNumberGenerator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WIndChill" />
         <item itemvalue="Application.LoanPayments" />
         <item itemvalue="Application.SpringSeason" />
         <item itemvalue="Application.SumOfSines" />
         <item itemvalue="Application.SumOfTwoDice" />
-        <item itemvalue="Application.RandomNumberGenerator" />
       </list>
     </recent_temporary>
   </component>
