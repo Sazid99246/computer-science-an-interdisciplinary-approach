@@ -77,7 +77,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section2.webExercises.Swap">
+  <component name="RunManager" selected="Application.chapter1.section2.webExercises.RGBtoYIQ">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -167,6 +167,12 @@
       <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section2.webExercises.RGBtoYIQ" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.RGBtoYIQ" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="255 255 255" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section2.webExercises.Swap" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.Swap" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -181,6 +187,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section2.webExercises.RGBtoYIQ" />
       <item itemvalue="Application.chapter1.section2.webExercises.Swap" />
       <item itemvalue="Application.chapter1.section2.exerecises.Dragon" />
       <item itemvalue="Application.chapter1.section2.exerecises.GreatCircle" />

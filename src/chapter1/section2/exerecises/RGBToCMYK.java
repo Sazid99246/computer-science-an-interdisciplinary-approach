@@ -12,6 +12,6 @@ public class RGBToCMYK {
         int Y = w - ((G / 255) / w);
         int K = 1 - w;
 
-        System.out.println("The color value of RGB(" + R + "," + G + "," + B + ") = CMYK(" + C + "," + M + "," + Y + "," + K + ")");
+        System.out.println("The color value of RGB(" + R + "," + G + "," + B + ") is CMYK(" + C + "," + M + "," + Y + "," + K + ")");
     }
 }
