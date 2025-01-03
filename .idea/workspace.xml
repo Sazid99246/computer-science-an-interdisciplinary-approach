@@ -69,6 +69,7 @@
     "Application.chapter1.section2.exerecises.WIndChill.executor": "Run",
     "Application.chapter1.section2.webExercises.BMI.executor": "Run",
     "Application.chapter1.section2.webExercises.CMYKToRGB.executor": "Run",
+    "Application.chapter1.section2.webExercises.CubicPolynomial.executor": "Run",
     "Application.chapter1.section2.webExercises.DivideByZero.executor": "Run",
     "Application.chapter1.section2.webExercises.Divisibility.executor": "Run",
     "Application.chapter1.section2.webExercises.EqualOrNot.executor": "Run",
@@ -90,7 +91,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section2.webExercises.CubicPolynomial">
+  <component name="RunManager" selected="Application.chapter1.section2.webExercises.BaryCenter">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -186,6 +187,12 @@
       <option name="PROGRAM_PARAMETERS" value="60 1.52" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section2.webExercises.BaryCenter" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.BaryCenter" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="1 0.0123 384000" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section2.webExercises.CMYKToRGB" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.CMYKToRGB" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -278,6 +285,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.chapter1.section2.webExercises.BMI" />
+      <item itemvalue="Application.chapter1.section2.webExercises.BaryCenter" />
       <item itemvalue="Application.chapter1.section2.webExercises.CubicPolynomial" />
       <item itemvalue="Application.chapter1.section2.webExercises.HorizontalCoordinates" />
       <item itemvalue="Application.chapter1.section2.webExercises.Divisibility" />
