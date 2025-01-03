@@ -67,6 +67,7 @@
     "Application.chapter1.section2.exerecises.RandomGaussian.executor": "Run",
     "Application.chapter1.section2.exerecises.Stats5.executor": "Run",
     "Application.chapter1.section2.exerecises.WIndChill.executor": "Run",
+    "Application.chapter1.section2.webExercises.RGBtoYIQ.executor": "Run",
     "Application.chapter1.section2.webExercises.Swap.executor": "Run",
     "Attach to process.pid 13608.executor": "ProcessAttachDebug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
