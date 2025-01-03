@@ -60,7 +60,10 @@
     "Application.chapter1.section2.examples.Ruler.executor": "Run",
     "Application.chapter1.section2.exerecises.AscedingOrDescending.executor": "Run",
     "Application.chapter1.section2.exerecises.DayOfWeek.executor": "Run",
+    "Application.chapter1.section2.exerecises.MercatorProjection.executor": "Run",
+    "Application.chapter1.section2.exerecises.RGBToCMYK.executor": "Run",
     "Application.chapter1.section2.exerecises.RandomGaussian.executor": "Run",
+    "Application.chapter1.section2.exerecises.Stats5.executor": "Run",
     "Application.chapter1.section2.exerecises.WIndChill.executor": "Run",
     "Attach to process.pid 13608.executor": "ProcessAttachDebug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -71,7 +74,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section2.exerecises.DayOfWeek">
+  <component name="RunManager" selected="Application.chapter1.section2.exerecises.RGBToCMYK">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -128,8 +131,25 @@
       <option name="PROGRAM_PARAMETERS" value="1 1 2000" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section2.exerecises.MercatorProjection" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.MercatorProjection" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="12 34" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section2.exerecises.RGBToCMYK" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.RGBToCMYK" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="255 255 255" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section2.exerecises.RandomGaussian" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.RandomGaussian" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section2.exerecises.Stats5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.Stats5" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
@@ -141,10 +161,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section2.exerecises.RGBToCMYK" />
+      <item itemvalue="Application.chapter1.section2.exerecises.MercatorProjection" />
       <item itemvalue="Application.chapter1.section2.examples.RandomInt" />
       <item itemvalue="Application.chapter1.section2.exerecises.AscedingOrDescending" />
       <item itemvalue="Application.chapter1.section2.exerecises.DayOfWeek" />
       <item itemvalue="Application.chapter1.section2.exerecises.RandomGaussian" />
+      <item itemvalue="Application.chapter1.section2.exerecises.Stats5" />
       <item itemvalue="Application.LeapYear" />
       <item itemvalue="Application.WIndChill" />
       <item itemvalue="Application.LoanPayments" />
