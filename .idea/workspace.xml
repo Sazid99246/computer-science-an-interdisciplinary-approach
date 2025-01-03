@@ -73,6 +73,7 @@
     &quot;Application.chapter1.section2.webExercises.EqualOrNot.executor&quot;: &quot;Run&quot;,
     &quot;Application.chapter1.section2.webExercises.EuclideanDistance.executor&quot;: &quot;Run&quot;,
     &quot;Application.chapter1.section2.webExercises.FibonacciWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.chapter1.section2.webExercises.HorizontalCoordinates.executor&quot;: &quot;Run&quot;,
     &quot;Application.chapter1.section2.webExercises.LeapYear.executor&quot;: &quot;Run&quot;,
     &quot;Application.chapter1.section2.webExercises.Ordered.executor&quot;: &quot;Run&quot;,
     &quot;Application.chapter1.section2.webExercises.RGBtoYIQ.executor&quot;: &quot;Run&quot;,
@@ -88,7 +89,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.chapter1.section2.webExercises.TriangleArea">
+  <component name="RunManager" selected="Application.chapter1.section2.webExercises.BMI">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -178,6 +179,12 @@
       <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section2.webExercises.BMI" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.BMI" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="60 1.52" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section2.webExercises.CMYKToRGB" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.CMYKToRGB" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -212,6 +219,12 @@
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.FibonacciWord" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="a b" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section2.webExercises.HorizontalCoordinates" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.HorizontalCoordinates" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="2 3 4" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section2.webExercises.LeapYear" type="Application" factoryName="Application">
@@ -257,6 +270,8 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section2.webExercises.BMI" />
+      <item itemvalue="Application.chapter1.section2.webExercises.HorizontalCoordinates" />
       <item itemvalue="Application.chapter1.section2.webExercises.Divisibility" />
       <item itemvalue="Application.chapter1.section2.webExercises.EqualOrNot" />
       <item itemvalue="Application.chapter1.section2.webExercises.EuclideanDistance" />
