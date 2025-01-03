@@ -60,6 +60,7 @@
     "Application.chapter1.section2.examples.Ruler.executor": "Run",
     "Application.chapter1.section2.exerecises.AscedingOrDescending.executor": "Run",
     "Application.chapter1.section2.exerecises.DayOfWeek.executor": "Run",
+    "Application.chapter1.section2.exerecises.GreatCircle.executor": "Run",
     "Application.chapter1.section2.exerecises.MercatorProjection.executor": "Run",
     "Application.chapter1.section2.exerecises.RGBToCMYK.executor": "Run",
     "Application.chapter1.section2.exerecises.RandomGaussian.executor": "Run",
@@ -74,7 +75,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section2.exerecises.GreatCircle">
+  <component name="RunManager" selected="Application.chapter1.section2.exerecises.Dragon">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -131,6 +132,11 @@
       <option name="PROGRAM_PARAMETERS" value="1 1 2000" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section2.exerecises.Dragon" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.Dragon" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section2.exerecises.GreatCircle" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.GreatCircle" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -167,6 +173,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section2.exerecises.Dragon" />
       <item itemvalue="Application.chapter1.section2.exerecises.GreatCircle" />
       <item itemvalue="Application.chapter1.section2.exerecises.RGBToCMYK" />
       <item itemvalue="Application.chapter1.section2.exerecises.MercatorProjection" />
