@@ -73,6 +73,7 @@
     "Application.chapter1.section2.webExercises.EuclideanDistance.executor": "Run",
     "Application.chapter1.section2.webExercises.FibonacciWord.executor": "Run",
     "Application.chapter1.section2.webExercises.LeapYear.executor": "Run",
+    "Application.chapter1.section2.webExercises.Ordered.executor": "Run",
     "Application.chapter1.section2.webExercises.RGBtoYIQ.executor": "Run",
     "Application.chapter1.section2.webExercises.StandardDeviation.executor": "Run",
     "Application.chapter1.section2.webExercises.Swap.executor": "Run",
@@ -85,7 +86,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section2.webExercises.Ordered">
+  <component name="RunManager" selected="Application.chapter1.section2.webExercises.Divisibility">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -187,6 +188,12 @@
       <option name="PROGRAM_PARAMETERS" value="17" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section2.webExercises.Divisibility" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.Divisibility" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="20 15" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section2.webExercises.EqualOrNot" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.EqualOrNot" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -214,7 +221,7 @@
     <configuration name="chapter1.section2.webExercises.Ordered" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.Ordered" />
       <module name="computer-science-an-interdisciplinary-approach" />
-      <option name="PROGRAM_PARAMETERS" value="5 4 3" />
+      <option name="PROGRAM_PARAMETERS" value="3 4 3" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section2.webExercises.RGBtoYIQ" type="Application" factoryName="Application">
@@ -242,6 +249,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section2.webExercises.Divisibility" />
       <item itemvalue="Application.chapter1.section2.webExercises.EqualOrNot" />
       <item itemvalue="Application.chapter1.section2.webExercises.EuclideanDistance" />
       <item itemvalue="Application.chapter1.section2.webExercises.LeapYear" />
