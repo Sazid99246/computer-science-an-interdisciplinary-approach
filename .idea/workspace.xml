@@ -67,7 +67,11 @@
     "Application.chapter1.section2.exerecises.RandomGaussian.executor": "Run",
     "Application.chapter1.section2.exerecises.Stats5.executor": "Run",
     "Application.chapter1.section2.exerecises.WIndChill.executor": "Run",
+    "Application.chapter1.section2.webExercises.CMYKToRGB.executor": "Run",
+    "Application.chapter1.section2.webExercises.DivideByZero.executor": "Run",
+    "Application.chapter1.section2.webExercises.FibonacciWord.executor": "Run",
     "Application.chapter1.section2.webExercises.RGBtoYIQ.executor": "Run",
+    "Application.chapter1.section2.webExercises.StandardDeviation.executor": "Run",
     "Application.chapter1.section2.webExercises.Swap.executor": "Run",
     "Attach to process.pid 13608.executor": "ProcessAttachDebug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -78,7 +82,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section2.webExercises.RGBtoYIQ">
+  <component name="RunManager" selected="Application.chapter1.section2.webExercises.StandardDeviation">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -168,10 +172,33 @@
       <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section2.webExercises.CMYKToRGB" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.CMYKToRGB" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="0 0 0 0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section2.webExercises.DivideByZero" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.DivideByZero" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="17" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section2.webExercises.FibonacciWord" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.FibonacciWord" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="a b" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section2.webExercises.RGBtoYIQ" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.RGBtoYIQ" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="255 255 255" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section2.webExercises.StandardDeviation" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.StandardDeviation" />
+      <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section2.webExercises.Swap" type="Application" factoryName="Application">
@@ -188,6 +215,10 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section2.webExercises.StandardDeviation" />
+      <item itemvalue="Application.chapter1.section2.webExercises.CMYKToRGB" />
+      <item itemvalue="Application.chapter1.section2.webExercises.DivideByZero" />
+      <item itemvalue="Application.chapter1.section2.webExercises.FibonacciWord" />
       <item itemvalue="Application.chapter1.section2.webExercises.RGBtoYIQ" />
       <item itemvalue="Application.chapter1.section2.webExercises.Swap" />
       <item itemvalue="Application.chapter1.section2.exerecises.Dragon" />
