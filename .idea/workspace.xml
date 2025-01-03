@@ -68,6 +68,7 @@
     "Application.chapter1.section2.exerecises.Stats5.executor": "Run",
     "Application.chapter1.section2.exerecises.WIndChill.executor": "Run",
     "Application.chapter1.section2.webExercises.BMI.executor": "Run",
+    "Application.chapter1.section2.webExercises.BaryCenter.executor": "Run",
     "Application.chapter1.section2.webExercises.CMYKToRGB.executor": "Run",
     "Application.chapter1.section2.webExercises.CubicPolynomial.executor": "Run",
     "Application.chapter1.section2.webExercises.DivideByZero.executor": "Run",
@@ -91,7 +92,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section2.webExercises.BaryCenter">
+  <component name="RunManager" selected="Application.chapter1.section2.webExercises.CarLoan">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -199,6 +200,12 @@
       <option name="PROGRAM_PARAMETERS" value="0 0 0 0" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section2.webExercises.CarLoan" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.CarLoan" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="5 6 7" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section2.webExercises.CubicPolynomial" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.webExercises.CubicPolynomial" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -286,6 +293,7 @@
     <list>
       <item itemvalue="Application.chapter1.section2.webExercises.BMI" />
       <item itemvalue="Application.chapter1.section2.webExercises.BaryCenter" />
+      <item itemvalue="Application.chapter1.section2.webExercises.CarLoan" />
       <item itemvalue="Application.chapter1.section2.webExercises.CubicPolynomial" />
       <item itemvalue="Application.chapter1.section2.webExercises.HorizontalCoordinates" />
       <item itemvalue="Application.chapter1.section2.webExercises.Divisibility" />
