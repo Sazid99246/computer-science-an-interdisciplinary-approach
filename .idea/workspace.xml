@@ -323,7 +323,7 @@
     <configuration name="chapter1.section3.exercises.Hellos" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.Hellos" />
       <module name="computer-science-an-interdisciplinary-approach" />
-      <option name="PROGRAM_PARAMETERS" value="5" />
+      <option name="PROGRAM_PARAMETERS" value="20" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section3.exercises.RollLoadedDie" type="Application" factoryName="Application">
