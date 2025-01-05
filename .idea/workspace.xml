@@ -90,6 +90,7 @@
     "Application.chapter1.section3.examples.TenHellos.executor": "Run",
     "Application.chapter1.section3.exercises.EqualOrNot.executor": "Run",
     "Application.chapter1.section3.exercises.FiveIntegersPerLine.executor": "Run",
+    "Application.chapter1.section3.exercises.FunctionGrowth.executor": "Run",
     "Application.chapter1.section3.exercises.Hellos.executor": "Run",
     "Application.chapter1.section3.exercises.RollLoadedDie.executor": "Run",
     "Application.chapter1.section3.exercises.UniformRandomNumbers.executor": "Run",
@@ -103,7 +104,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.exercises.UniformRandomNumbers">
+  <component name="RunManager" selected="Application.chapter1.section3.exercises.FunctionGrowth">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -327,6 +328,11 @@
       <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.FunctionGrowth" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.FunctionGrowth" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.exercises.Hellos" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.Hellos" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -341,7 +347,7 @@
     <configuration name="chapter1.section3.exercises.UniformRandomNumbers" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.UniformRandomNumbers" />
       <module name="computer-science-an-interdisciplinary-approach" />
-      <option name="PROGRAM_PARAMETERS" value="25" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section3.exercises.WindChillUpdated" type="Application" factoryName="Application">
@@ -358,6 +364,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.exercises.FunctionGrowth" />
       <item itemvalue="Application.chapter1.section3.exercises.EqualOrNot" />
       <item itemvalue="Application.chapter1.section3.exercises.FiveIntegersPerLine" />
       <item itemvalue="Application.chapter1.section3.exercises.Hellos" />
