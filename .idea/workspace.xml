@@ -36,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ContinuousCompoundInterest.executor": "Run",
     "Application.EvenlyDivisible.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.HelloWorldMultilingual.executor": "Run",
@@ -88,6 +89,7 @@
     "Application.chapter1.section3.examples.Flip.executor": "Run",
     "Application.chapter1.section3.examples.PowerOfTwo.executor": "Run",
     "Application.chapter1.section3.examples.TenHellos.executor": "Run",
+    "Application.chapter1.section3.exercises.ContinuousCompoundInterestExtended.executor": "Run",
     "Application.chapter1.section3.exercises.EqualOrNot.executor": "Run",
     "Application.chapter1.section3.exercises.FiveIntegersPerLine.executor": "Run",
     "Application.chapter1.section3.exercises.FunctionGrowth.executor": "Run",
@@ -105,7 +107,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ContinuousCompoundInterest">
+  <component name="RunManager" selected="Application.chapter1.section3.exercises.ContinuousCompoundInterestExtended">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -318,6 +320,12 @@
       <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.ContinuousCompoundInterestExtended" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.ContinuousCompoundInterestExtended" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="20000 5" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.exercises.EqualOrNot" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.EqualOrNot" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -371,6 +379,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.exercises.ContinuousCompoundInterestExtended" />
       <item itemvalue="Application.chapter1.section3.exercises.FunctionGrowth" />
       <item itemvalue="Application.chapter1.section3.exercises.PowerOfTwos" />
       <item itemvalue="Application.chapter1.section3.exercises.EqualOrNot" />
@@ -411,9 +420,9 @@
       <item itemvalue="Application.chapter1.section2.exerecises.Stats5" />
       <item itemvalue="Application.LeapYear" />
       <item itemvalue="Application.WIndChill" />
+      <item itemvalue="Application.ContinuousCompoundInterest" />
       <item itemvalue="Application.SpringSeason" />
       <item itemvalue="Application.SumOfSines" />
-      <item itemvalue="Application.ContinuousCompoundInterest" />
     </list>
     <recent_temporary>
       <list>
