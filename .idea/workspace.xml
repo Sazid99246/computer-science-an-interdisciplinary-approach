@@ -89,6 +89,7 @@
     "Application.chapter1.section3.examples.PowerOfTwo.executor": "Run",
     "Application.chapter1.section3.examples.TenHellos.executor": "Run",
     "Application.chapter1.section3.exercises.EqualOrNot.executor": "Run",
+    "Application.chapter1.section3.exercises.Hellos.executor": "Run",
     "Application.chapter1.section3.exercises.RollLoadedDie.executor": "Run",
     "Application.chapter1.section3.exercises.WindChillUpdated.executor": "Run",
     "Attach to process.pid 13608.executor": "ProcessAttachDebug",
@@ -100,7 +101,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.exercises.WindChillUpdated">
+  <component name="RunManager" selected="Application.chapter1.section3.exercises.Hellos">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -319,6 +320,12 @@
       <option name="PROGRAM_PARAMETERS" value="1 1 1" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.Hellos" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.Hellos" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.exercises.RollLoadedDie" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.RollLoadedDie" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -327,6 +334,7 @@
     <configuration name="chapter1.section3.exercises.WindChillUpdated" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.WindChillUpdated" />
       <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="2.5 30 45" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -338,6 +346,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.chapter1.section3.exercises.EqualOrNot" />
+      <item itemvalue="Application.chapter1.section3.exercises.Hellos" />
       <item itemvalue="Application.chapter1.section3.exercises.RollLoadedDie" />
       <item itemvalue="Application.chapter1.section3.exercises.WindChillUpdated" />
       <item itemvalue="Application.chapter1.section3.examples.Flip" />
