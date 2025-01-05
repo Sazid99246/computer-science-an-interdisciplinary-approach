@@ -92,6 +92,7 @@
     "Application.chapter1.section3.exercises.FiveIntegersPerLine.executor": "Run",
     "Application.chapter1.section3.exercises.FunctionGrowth.executor": "Run",
     "Application.chapter1.section3.exercises.Hellos.executor": "Run",
+    "Application.chapter1.section3.exercises.PowerOfTwos.executor": "Run",
     "Application.chapter1.section3.exercises.RollLoadedDie.executor": "Run",
     "Application.chapter1.section3.exercises.UniformRandomNumbers.executor": "Run",
     "Application.chapter1.section3.exercises.WindChillUpdated.executor": "Run",
@@ -104,21 +105,21 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.exercises.FunctionGrowth">
+  <component name="RunManager" selected="Application.ContinuousCompoundInterest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="ContinuousCompoundInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exercises.ContinuousCompoundInterest" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="10 10000 5" />
+      <method v="2" />
     </configuration>
     <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.examples.LeapYear" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="1900" />
-      <method v="2" />
-    </configuration>
-    <configuration name="LoanPayments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exercises.LoanPayments" />
-      <module name="computer-science-an-interdisciplinary-approach" />
-      <option name="PROGRAM_PARAMETERS" value="10 10000 5" />
       <method v="2" />
     </configuration>
     <configuration name="SpringSeason" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -339,6 +340,12 @@
       <option name="PROGRAM_PARAMETERS" value="20" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.PowerOfTwos" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.PowerOfTwos" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="2048" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.exercises.RollLoadedDie" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.RollLoadedDie" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -365,6 +372,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.chapter1.section3.exercises.FunctionGrowth" />
+      <item itemvalue="Application.chapter1.section3.exercises.PowerOfTwos" />
       <item itemvalue="Application.chapter1.section3.exercises.EqualOrNot" />
       <item itemvalue="Application.chapter1.section3.exercises.FiveIntegersPerLine" />
       <item itemvalue="Application.chapter1.section3.exercises.Hellos" />
@@ -403,15 +411,15 @@
       <item itemvalue="Application.chapter1.section2.exerecises.Stats5" />
       <item itemvalue="Application.LeapYear" />
       <item itemvalue="Application.WIndChill" />
-      <item itemvalue="Application.LoanPayments" />
       <item itemvalue="Application.SpringSeason" />
       <item itemvalue="Application.SumOfSines" />
+      <item itemvalue="Application.ContinuousCompoundInterest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContinuousCompoundInterest" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.WIndChill" />
-        <item itemvalue="Application.LoanPayments" />
         <item itemvalue="Application.SpringSeason" />
         <item itemvalue="Application.SumOfSines" />
       </list>
