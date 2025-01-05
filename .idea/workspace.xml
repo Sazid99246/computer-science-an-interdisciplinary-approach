@@ -84,16 +84,20 @@
     "Application.chapter1.section2.webExercises.StandardDeviation.executor": "Run",
     "Application.chapter1.section2.webExercises.Swap.executor": "Run",
     "Application.chapter1.section2.webExercises.TriangleArea.executor": "Run",
+    "Application.chapter1.section2.webExercises.Trig.executor": "Run",
+    "Application.chapter1.section3.examples.Flip.executor": "Run",
+    "Application.chapter1.section3.examples.PowerOfTwo.executor": "Run",
+    "Application.chapter1.section3.examples.TenHellos.executor": "Run",
     "Attach to process.pid 13608.executor": "ProcessAttachDebug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section2.webExercises.Trig">
+  <component name="RunManager" selected="Application.chapter1.section3.examples.PowerOfTwo">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -290,6 +294,22 @@
       <option name="PROGRAM_PARAMETERS" value="30.0" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.examples.Flip" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.examples.Flip" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section3.examples.PowerOfTwo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.examples.PowerOfTwo" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="29" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section3.examples.TenHellos" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.examples.TenHellos" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -298,6 +318,9 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.examples.Flip" />
+      <item itemvalue="Application.chapter1.section3.examples.PowerOfTwo" />
+      <item itemvalue="Application.chapter1.section3.examples.TenHellos" />
       <item itemvalue="Application.chapter1.section2.webExercises.BMI" />
       <item itemvalue="Application.chapter1.section2.webExercises.BaryCenter" />
       <item itemvalue="Application.chapter1.section2.webExercises.CarLoan" />
