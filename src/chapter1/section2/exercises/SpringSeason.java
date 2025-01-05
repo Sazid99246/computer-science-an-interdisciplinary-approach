@@ -1,4 +1,4 @@
-package chapter1.section2.exerecises;
+package chapter1.section2.exercises;
 
 public class SpringSeason {
     public static void main(String[] args) {

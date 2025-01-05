@@ -88,6 +88,7 @@
     "Application.chapter1.section3.examples.Flip.executor": "Run",
     "Application.chapter1.section3.examples.PowerOfTwo.executor": "Run",
     "Application.chapter1.section3.examples.TenHellos.executor": "Run",
+    "Application.chapter1.section3.exercises.EqualOrNot.executor": "Run",
     "Attach to process.pid 13608.executor": "ProcessAttachDebug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
@@ -97,7 +98,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.examples.PowerOfTwo">
+  <component name="RunManager" selected="Application.chapter1.section3.exercises.EqualOrNot">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -109,25 +110,25 @@
       <method v="2" />
     </configuration>
     <configuration name="LoanPayments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.LoanPayments" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exercises.LoanPayments" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="10 10000 5" />
       <method v="2" />
     </configuration>
     <configuration name="SpringSeason" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.SpringSeason" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exercises.SpringSeason" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="2 28" />
       <method v="2" />
     </configuration>
     <configuration name="SumOfSines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.SumOfSines" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exercises.SumOfSines" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="30" />
       <method v="2" />
     </configuration>
     <configuration name="WIndChill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.WIndChill" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exercises.WIndChill" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="20 30" />
       <method v="2" />
@@ -143,47 +144,47 @@
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section2.exerecises.AscedingOrDescending" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.AscendingOrDescending" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exercises.AscendingOrDescending" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="13 12 5" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section2.exerecises.DayOfWeek" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.DayOfWeek" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exercises.DayOfWeek" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="1 1 2000" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section2.exerecises.Dragon" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.Dragon" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exercises.Dragon" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section2.exerecises.GreatCircle" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.GreatCircle" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exercises.GreatCircle" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="48.87 37.8 -2.33 122.4" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section2.exerecises.MercatorProjection" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.MercatorProjection" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exercises.MercatorProjection" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="12 34" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section2.exerecises.RGBToCMYK" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.RGBToCMYK" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exercises.RGBToCMYK" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="255 255 255" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section2.exerecises.RandomGaussian" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.RandomGaussian" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exercises.RandomGaussian" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section2.exerecises.Stats5" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exerecises.Stats5" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.section2.exercises.Stats5" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
@@ -310,6 +311,12 @@
       <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.EqualOrNot" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.EqualOrNot" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="1 1 1" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -318,6 +325,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.exercises.EqualOrNot" />
       <item itemvalue="Application.chapter1.section3.examples.Flip" />
       <item itemvalue="Application.chapter1.section3.examples.PowerOfTwo" />
       <item itemvalue="Application.chapter1.section3.examples.TenHellos" />
