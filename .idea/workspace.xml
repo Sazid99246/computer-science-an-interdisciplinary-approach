@@ -86,8 +86,14 @@
     "Application.chapter1.section2.webExercises.Swap.executor": "Run",
     "Application.chapter1.section2.webExercises.TriangleArea.executor": "Run",
     "Application.chapter1.section2.webExercises.Trig.executor": "Run",
+    "Application.chapter1.section3.examples.Binary.executor": "Run",
+    "Application.chapter1.section3.examples.DivisorPattern.executor": "Run",
+    "Application.chapter1.section3.examples.Factors.executor": "Run",
     "Application.chapter1.section3.examples.Flip.executor": "Run",
+    "Application.chapter1.section3.examples.Gambler.executor": "Run",
+    "Application.chapter1.section3.examples.HarmonicNumber.executor": "Run",
     "Application.chapter1.section3.examples.PowerOfTwo.executor": "Run",
+    "Application.chapter1.section3.examples.Sqrt.executor": "Run",
     "Application.chapter1.section3.examples.TenHellos.executor": "Run",
     "Application.chapter1.section3.exercises.ContinuousCompoundInterestExtended.executor": "Run",
     "Application.chapter1.section3.exercises.EqualOrNot.executor": "Run",
@@ -107,7 +113,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.exercises.ContinuousCompoundInterestExtended">
+  <component name="RunManager" selected="Application.chapter1.section3.exercises.KthRoot">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -304,15 +310,51 @@
       <option name="PROGRAM_PARAMETERS" value="30.0" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.examples.Binary" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.examples.Binary" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="19" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section3.examples.DivisorPattern" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.examples.DivisorPattern" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="12" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section3.examples.Factors" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.examples.Factors" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="81" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.examples.Flip" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.examples.Flip" />
       <module name="computer-science-an-interdisciplinary-approach" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section3.examples.Gambler" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.examples.Gambler" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="50 100 1000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section3.examples.HarmonicNumber" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.examples.HarmonicNumber" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section3.examples.PowerOfTwo" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.examples.PowerOfTwo" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="29" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section3.examples.Sqrt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.examples.Sqrt" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="2.0" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section3.examples.TenHellos" type="Application" factoryName="Application">
@@ -348,6 +390,12 @@
       <option name="PROGRAM_PARAMETERS" value="20" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.KthRoot" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.KthRoot" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="20 3" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.exercises.PowerOfTwos" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.PowerOfTwos" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -379,6 +427,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.examples.Binary" />
+      <item itemvalue="Application.chapter1.section3.examples.DivisorPattern" />
+      <item itemvalue="Application.chapter1.section3.examples.Factors" />
+      <item itemvalue="Application.chapter1.section3.examples.Gambler" />
+      <item itemvalue="Application.chapter1.section3.examples.HarmonicNumber" />
+      <item itemvalue="Application.chapter1.section3.examples.Sqrt" />
+      <item itemvalue="Application.chapter1.section3.exercises.KthRoot" />
       <item itemvalue="Application.chapter1.section3.exercises.ContinuousCompoundInterestExtended" />
       <item itemvalue="Application.chapter1.section3.exercises.FunctionGrowth" />
       <item itemvalue="Application.chapter1.section3.exercises.PowerOfTwos" />
