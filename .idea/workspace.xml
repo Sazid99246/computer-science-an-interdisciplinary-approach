@@ -100,6 +100,7 @@
     "Application.chapter1.section3.exercises.FiveIntegersPerLine.executor": "Run",
     "Application.chapter1.section3.exercises.FunctionGrowth.executor": "Run",
     "Application.chapter1.section3.exercises.Hellos.executor": "Run",
+    "Application.chapter1.section3.exercises.Kary.executor": "Run",
     "Application.chapter1.section3.exercises.KthRoot.executor": "Run",
     "Application.chapter1.section3.exercises.PowerOfTwos.executor": "Run",
     "Application.chapter1.section3.exercises.RollLoadedDie.executor": "Run",
