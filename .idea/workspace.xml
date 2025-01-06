@@ -100,6 +100,7 @@
     "Application.chapter1.section3.exercises.FiveIntegersPerLine.executor": "Run",
     "Application.chapter1.section3.exercises.FunctionGrowth.executor": "Run",
     "Application.chapter1.section3.exercises.Hellos.executor": "Run",
+    "Application.chapter1.section3.exercises.KthRoot.executor": "Run",
     "Application.chapter1.section3.exercises.PowerOfTwos.executor": "Run",
     "Application.chapter1.section3.exercises.RollLoadedDie.executor": "Run",
     "Application.chapter1.section3.exercises.UniformRandomNumbers.executor": "Run",
@@ -113,7 +114,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.exercises.KthRoot">
+  <component name="RunManager" selected="Application.chapter1.section3.exercises.Kary">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -390,6 +391,12 @@
       <option name="PROGRAM_PARAMETERS" value="20" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.Kary" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.Kary" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="14 16" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.exercises.KthRoot" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.KthRoot" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -433,6 +440,7 @@
       <item itemvalue="Application.chapter1.section3.examples.Gambler" />
       <item itemvalue="Application.chapter1.section3.examples.HarmonicNumber" />
       <item itemvalue="Application.chapter1.section3.examples.Sqrt" />
+      <item itemvalue="Application.chapter1.section3.exercises.Kary" />
       <item itemvalue="Application.chapter1.section3.exercises.KthRoot" />
       <item itemvalue="Application.chapter1.section3.exercises.ContinuousCompoundInterestExtended" />
       <item itemvalue="Application.chapter1.section3.exercises.FunctionGrowth" />
