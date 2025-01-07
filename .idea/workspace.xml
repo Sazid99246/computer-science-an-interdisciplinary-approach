@@ -120,7 +120,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.exercises.PrimeDivisors">
+  <component name="RunManager" selected="Application.chapter1.section3.exercises.Checkerboard">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -369,6 +369,12 @@
       <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.Checkerboard" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.Checkerboard" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="8 8" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.exercises.ContinuousCompoundInterestExtended" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.ContinuousCompoundInterestExtended" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -470,6 +476,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.exercises.Checkerboard" />
       <item itemvalue="Application.chapter1.section3.exercises.GamblerPlot" />
       <item itemvalue="Application.chapter1.section3.exercises.GamblerV3" />
       <item itemvalue="Application.chapter1.section3.exercises.GamblerV4" />
