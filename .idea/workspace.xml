@@ -109,6 +109,7 @@
     "Application.chapter1.section3.exercises.Kary.executor": "Run",
     "Application.chapter1.section3.exercises.KthRoot.executor": "Run",
     "Application.chapter1.section3.exercises.PowerOfTwos.executor": "Run",
+    "Application.chapter1.section3.exercises.PowersOfK.executor": "Run",
     "Application.chapter1.section3.exercises.PrimeDivisors.executor": "Run",
     "Application.chapter1.section3.exercises.RelativelyPrime.executor": "Run",
     "Application.chapter1.section3.exercises.RollLoadedDie.executor": "Run",
@@ -123,7 +124,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.exercises.RelativelyPrime">
+  <component name="RunManager" selected="Application.chapter1.section3.exercises.PowersOfK">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -454,6 +455,12 @@
       <option name="PROGRAM_PARAMETERS" value="2048" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.PowersOfK" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.PowersOfK" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.exercises.PrimeDivisors" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.PrimeDivisors" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -492,6 +499,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.chapter1.section3.exercises.GreatestCommonDivisor" />
+      <item itemvalue="Application.chapter1.section3.exercises.PowersOfK" />
       <item itemvalue="Application.chapter1.section3.exercises.RelativelyPrime" />
       <item itemvalue="Application.chapter1.section3.exercises.Checkerboard" />
       <item itemvalue="Application.chapter1.section3.exercises.GamblerPlot" />
