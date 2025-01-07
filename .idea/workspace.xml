@@ -99,6 +99,9 @@
     "Application.chapter1.section3.exercises.EqualOrNot.executor": "Run",
     "Application.chapter1.section3.exercises.FiveIntegersPerLine.executor": "Run",
     "Application.chapter1.section3.exercises.FunctionGrowth.executor": "Run",
+    "Application.chapter1.section3.exercises.GamblerPlot.executor": "Run",
+    "Application.chapter1.section3.exercises.GamblerV2.executor": "Run",
+    "Application.chapter1.section3.exercises.GamblerV3.executor": "Run",
     "Application.chapter1.section3.exercises.Hellos.executor": "Run",
     "Application.chapter1.section3.exercises.Kary.executor": "Run",
     "Application.chapter1.section3.exercises.KthRoot.executor": "Run",
@@ -115,7 +118,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.exercises.Kary">
+  <component name="RunManager" selected="Application.chapter1.section3.exercises.GamblerV3">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -386,6 +389,24 @@
       <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.GamblerPlot" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.GamblerPlot" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="50 250 100" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section3.exercises.GamblerV2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.GamblerV2" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="10 20 1000 " />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section3.exercises.GamblerV3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.GamblerV3" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="10 20 1000 0.48" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.exercises.Hellos" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.Hellos" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -435,12 +456,15 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.exercises.GamblerPlot" />
+      <item itemvalue="Application.chapter1.section3.exercises.GamblerV3" />
       <item itemvalue="Application.chapter1.section3.examples.Binary" />
       <item itemvalue="Application.chapter1.section3.examples.DivisorPattern" />
       <item itemvalue="Application.chapter1.section3.examples.Factors" />
       <item itemvalue="Application.chapter1.section3.examples.Gambler" />
       <item itemvalue="Application.chapter1.section3.examples.HarmonicNumber" />
       <item itemvalue="Application.chapter1.section3.examples.Sqrt" />
+      <item itemvalue="Application.chapter1.section3.exercises.GamblerV2" />
       <item itemvalue="Application.chapter1.section3.exercises.Kary" />
       <item itemvalue="Application.chapter1.section3.exercises.KthRoot" />
       <item itemvalue="Application.chapter1.section3.exercises.ContinuousCompoundInterestExtended" />
