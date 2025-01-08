@@ -97,6 +97,7 @@
     "Application.chapter1.section3.examples.TenHellos.executor": "Run",
     "Application.chapter1.section3.exercises.Checkerboard.executor": "Run",
     "Application.chapter1.section3.exercises.ContinuousCompoundInterestExtended.executor": "Run",
+    "Application.chapter1.section3.exercises.CoordinatesOfRandomPoint.executor": "Run",
     "Application.chapter1.section3.exercises.EqualOrNot.executor": "Run",
     "Application.chapter1.section3.exercises.FiveIntegersPerLine.executor": "Run",
     "Application.chapter1.section3.exercises.FunctionGrowth.executor": "Run",
@@ -124,7 +125,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.exercises.PowersOfK">
+  <component name="RunManager" selected="Application.chapter1.section3.exercises.CoordinatesOfRandomPoint">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -385,6 +386,11 @@
       <option name="PROGRAM_PARAMETERS" value="20000 5" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.CoordinatesOfRandomPoint" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.CoordinatesOfRandomPoint" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.exercises.EqualOrNot" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.EqualOrNot" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -498,6 +504,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.exercises.CoordinatesOfRandomPoint" />
       <item itemvalue="Application.chapter1.section3.exercises.GreatestCommonDivisor" />
       <item itemvalue="Application.chapter1.section3.exercises.PowersOfK" />
       <item itemvalue="Application.chapter1.section3.exercises.RelativelyPrime" />
