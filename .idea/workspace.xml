@@ -95,6 +95,7 @@
     "Application.chapter1.section3.examples.PowerOfTwo.executor": "Run",
     "Application.chapter1.section3.examples.Sqrt.executor": "Run",
     "Application.chapter1.section3.examples.TenHellos.executor": "Run",
+    "Application.chapter1.section3.exercises.Chaos.executor": "Run",
     "Application.chapter1.section3.exercises.CheckSum.executor": "Run",
     "Application.chapter1.section3.exercises.Checkerboard.executor": "Run",
     "Application.chapter1.section3.exercises.ContinuousCompoundInterestExtended.executor": "Run",
@@ -135,7 +136,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.exercises.MedianFinder">
+  <component name="RunManager" selected="Application.chapter1.section3.exercises.Chaos">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -384,6 +385,12 @@
       <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.Chaos" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.Chaos" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="3.5" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.exercises.CheckSum" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.CheckSum" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -572,6 +579,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.exercises.Chaos" />
       <item itemvalue="Application.chapter1.section3.exercises.MedianFinder" />
       <item itemvalue="Application.chapter1.section3.exercises.MonteHall" />
       <item itemvalue="Application.chapter1.section3.exercises.Pepy" />
