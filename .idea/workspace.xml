@@ -95,6 +95,7 @@
     "Application.chapter1.section3.examples.PowerOfTwo.executor": "Run",
     "Application.chapter1.section3.examples.Sqrt.executor": "Run",
     "Application.chapter1.section3.examples.TenHellos.executor": "Run",
+    "Application.chapter1.section3.exercises.CheckSum.executor": "Run",
     "Application.chapter1.section3.exercises.Checkerboard.executor": "Run",
     "Application.chapter1.section3.exercises.ContinuousCompoundInterestExtended.executor": "Run",
     "Application.chapter1.section3.exercises.CoordinatesOfRandomPoint.executor": "Run",
@@ -111,6 +112,7 @@
     "Application.chapter1.section3.exercises.KthRoot.executor": "Run",
     "Application.chapter1.section3.exercises.PowerOfTwos.executor": "Run",
     "Application.chapter1.section3.exercises.PowersOfK.executor": "Run",
+    "Application.chapter1.section3.exercises.PrimeCounter.executor": "Run",
     "Application.chapter1.section3.exercises.PrimeDivisors.executor": "Run",
     "Application.chapter1.section3.exercises.Ramanujan.executor": "Run",
     "Application.chapter1.section3.exercises.RelativelyPrime.executor": "Run",
@@ -126,7 +128,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.exercises.Ramanujan">
+  <component name="RunManager" selected="Application.chapter1.section3.exercises.PrimeCounter">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -375,6 +377,12 @@
       <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.CheckSum" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.CheckSum" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="020131452" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.exercises.Checkerboard" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.Checkerboard" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -468,6 +476,12 @@
       <option name="PROGRAM_PARAMETERS" value="5" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.PrimeCounter" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.PrimeCounter" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.exercises.PrimeDivisors" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.PrimeDivisors" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -511,6 +525,8 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.exercises.CheckSum" />
+      <item itemvalue="Application.chapter1.section3.exercises.PrimeCounter" />
       <item itemvalue="Application.chapter1.section3.exercises.CoordinatesOfRandomPoint" />
       <item itemvalue="Application.chapter1.section3.exercises.Ramanujan" />
       <item itemvalue="Application.chapter1.section3.exercises.GreatestCommonDivisor" />
