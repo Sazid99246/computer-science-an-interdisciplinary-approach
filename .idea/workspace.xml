@@ -134,7 +134,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.exercises.MonteHall">
+  <component name="RunManager" selected="Application.chapter1.section3.exercises.MedianFinder">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -476,6 +476,12 @@
       <option name="PROGRAM_PARAMETERS" value="20 3" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.MedianFinder" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.MedianFinder" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="2" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.exercises.MonteHall" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.MonteHall" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -565,6 +571,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.exercises.MedianFinder" />
       <item itemvalue="Application.chapter1.section3.exercises.MonteHall" />
       <item itemvalue="Application.chapter1.section3.exercises.Pepy" />
       <item itemvalue="Application.chapter1.section3.exercises.Pepys" />
