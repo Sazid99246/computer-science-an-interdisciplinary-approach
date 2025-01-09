@@ -1,40 +1,34 @@
-package chapter1.section3.exercises;
 
 public class MonteHall {
+
     public static void main(String[] args) {
-        int N = Integer.parseInt(args[0]);
-        int stayWins = 0;
-        int switchWins = 0;
+        int trials = Integer.parseInt(args[0]);  // # trials
+        int wins = 0;                            // # times you win by switching
 
-        for (int i = 0; i < N; i++) {
-            // Randomly place the prize behind one of the three doors
-            int prizeDoor = (int) (Math.random() * 3);
-            // Randomly choose a door
-            int chosenDoor = (int) (Math.random() * 3);
+        // repeat experiment trials times
+        for (int i = 0; i < trials; i++) {
 
-            // Simulate the host opening a door
-            int revealedDoor;
+            // host hides prize behind 1 of 3 doors uniformly at random
+            int prize = (int) (3 * Math.random());
+
+            // contestant selects 1 of 3 doors uniformly at random
+            int choice = (int) (3 * Math.random());
+
+            // at random, host reveals an unchosen door not containing prize
+            int reveal;
             do {
-                revealedDoor = (int) (Math.random() * 3);
-            } while (revealedDoor == prizeDoor || revealedDoor == chosenDoor);
+                reveal = (int) (3 * Math.random());
+            } while ((reveal == choice) || (reveal == prize));
 
-            // Determine the other door that the contestant can switch to
-            int switchDoor = 3 - chosenDoor - revealedDoor;
+            // hack to compute the remaining door which contestent switches to
+            int other = 0 + 1 + 2 - reveal - choice;
 
-            // Check outcomes
-            if (chosenDoor == prizeDoor) {
-                stayWins++;
-            }
-            if (switchDoor == prizeDoor) {
-                switchWins++;
-            }
+            // switching leads to a win
+            if (other == prize) wins++;
         }
 
-        double staySuccessRate = (double) stayWins / N * 100;
-        double switchSuccessRate = (double) switchWins / N * 100;
-
-        System.out.printf("Out of %d simulations:\n", N);
-        System.out.printf("Success rate when staying: %.2f%%\n", staySuccessRate);
-        System.out.printf("Success rate when switching: %.2f%%\n", switchSuccessRate);
+        // avoid integer division
+        System.out.println("Fraction of games won = " + 1.0 * wins / trials);
     }
+
 }
