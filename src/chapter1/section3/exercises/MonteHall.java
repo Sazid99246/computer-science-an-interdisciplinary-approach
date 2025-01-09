@@ -1,3 +1,5 @@
+package chapter1.section3.exercises;
+
 
 public class MonteHall {
 
