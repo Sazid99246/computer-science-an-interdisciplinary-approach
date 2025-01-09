@@ -128,7 +128,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.exercises.PrimeCounter">
+  <component name="RunManager" selected="Application.chapter1.section3.exercises.RandomWalker">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -479,7 +479,7 @@
     <configuration name="chapter1.section3.exercises.PrimeCounter" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.PrimeCounter" />
       <module name="computer-science-an-interdisciplinary-approach" />
-      <option name="PROGRAM_PARAMETERS" value="5" />
+      <option name="PROGRAM_PARAMETERS" value="1000000" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section3.exercises.PrimeDivisors" type="Application" factoryName="Application">
@@ -492,6 +492,12 @@
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.Ramanujan" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="1729" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section3.exercises.RandomWalker" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.RandomWalker" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section3.exercises.RelativelyPrime" type="Application" factoryName="Application">
@@ -527,6 +533,7 @@
     <list>
       <item itemvalue="Application.chapter1.section3.exercises.CheckSum" />
       <item itemvalue="Application.chapter1.section3.exercises.PrimeCounter" />
+      <item itemvalue="Application.chapter1.section3.exercises.RandomWalker" />
       <item itemvalue="Application.chapter1.section3.exercises.CoordinatesOfRandomPoint" />
       <item itemvalue="Application.chapter1.section3.exercises.Ramanujan" />
       <item itemvalue="Application.chapter1.section3.exercises.GreatestCommonDivisor" />
