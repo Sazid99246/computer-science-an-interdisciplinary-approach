@@ -111,6 +111,8 @@
     "Application.chapter1.section3.exercises.Hellos.executor": "Run",
     "Application.chapter1.section3.exercises.Kary.executor": "Run",
     "Application.chapter1.section3.exercises.KthRoot.executor": "Run",
+    "Application.chapter1.section3.exercises.Pepy.executor": "Run",
+    "Application.chapter1.section3.exercises.Pepys.executor": "Run",
     "Application.chapter1.section3.exercises.PowerOfTwos.executor": "Run",
     "Application.chapter1.section3.exercises.PowersOfK.executor": "Run",
     "Application.chapter1.section3.exercises.PrimeCounter.executor": "Run",
@@ -131,7 +133,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.exercises.Sin">
+  <component name="RunManager" selected="Application.chapter1.section3.exercises.Pepys">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -473,6 +475,16 @@
       <option name="PROGRAM_PARAMETERS" value="20 3" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.exercises.Pepy" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.Pepy" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section3.exercises.Pepys" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.Pepys" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.exercises.PowerOfTwos" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.exercises.PowerOfTwos" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -546,6 +558,8 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.exercises.Pepy" />
+      <item itemvalue="Application.chapter1.section3.exercises.Pepys" />
       <item itemvalue="Application.chapter1.section3.exercises.Exp" />
       <item itemvalue="Application.chapter1.section3.exercises.Sin" />
       <item itemvalue="Application.chapter1.section3.exercises.CheckSum" />
