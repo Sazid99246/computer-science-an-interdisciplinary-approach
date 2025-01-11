@@ -129,6 +129,7 @@
     "Application.chapter1.section3.exercises.UniformRandomNumbers.executor": "Run",
     "Application.chapter1.section3.exercises.WindChillUpdated.executor": "Run",
     "Application.chapter1.section3.webExercises.CountDistinct.executor": "Run",
+    "Application.chapter1.section3.webExercises.DayTime.executor": "Run",
     "Application.chapter1.section3.webExercises.FamilySimulation.executor": "Run",
     "Application.chapter1.section3.webExercises.Hurricane.executor": "Run",
     "Application.chapter1.section3.webExercises.RGBtoHSV.executor": "Run",
@@ -142,7 +143,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.webExercises.FamilySimulation">
+  <component name="RunManager" selected="Application.chapter1.section2.exerecises.DayOfWeek">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -196,7 +197,7 @@
     <configuration name="chapter1.section2.exerecises.DayOfWeek" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section2.exercises.DayOfWeek" />
       <module name="computer-science-an-interdisciplinary-approach" />
-      <option name="PROGRAM_PARAMETERS" value="1 1 2000" />
+      <option name="PROGRAM_PARAMETERS" value="10 4 2000" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section2.exerecises.Dragon" type="Application" factoryName="Application">
@@ -589,6 +590,11 @@
       <option name="PROGRAM_PARAMETERS" value="1 2 3" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.webExercises.DayTime" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.webExercises.DayTime" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.webExercises.FamilySimulation" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.webExercises.FamilySimulation" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -619,6 +625,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.webExercises.DayTime" />
       <item itemvalue="Application.chapter1.section3.webExercises.FamilySimulation" />
       <item itemvalue="Application.chapter1.section3.webExercises.RGBtoHSV" />
       <item itemvalue="Application.chapter1.section3.webExercises.CountDistinct" />
