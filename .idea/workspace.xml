@@ -129,11 +129,13 @@
     "Application.chapter1.section3.exercises.Sin.executor": "Run",
     "Application.chapter1.section3.exercises.UniformRandomNumbers.executor": "Run",
     "Application.chapter1.section3.exercises.WindChillUpdated.executor": "Run",
+    "Application.chapter1.section3.webExercises.Binary2.executor": "Run",
     "Application.chapter1.section3.webExercises.CountDistinct.executor": "Run",
     "Application.chapter1.section3.webExercises.DayTime.executor": "Run",
     "Application.chapter1.section3.webExercises.DecimalExpansion.executor": "Run",
     "Application.chapter1.section3.webExercises.FamilySimulation.executor": "Run",
     "Application.chapter1.section3.webExercises.Hurricane.executor": "Run",
+    "Application.chapter1.section3.webExercises.NPerLine.executor": "Run",
     "Application.chapter1.section3.webExercises.QuarterbackRating.executor": "Run",
     "Application.chapter1.section3.webExercises.RGBtoHSV.executor": "Run",
     "Application.chapter1.section3.webExercises.RollDie.executor": "Run",
@@ -147,7 +149,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.webExercises.ThueMorse">
+  <component name="RunManager" selected="Application.chapter1.section3.webExercises.NPerLine">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -594,6 +596,12 @@
       <option name="PROGRAM_PARAMETERS" value="2.5 30 45" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.webExercises.Binary2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.webExercises.Binary2" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="50" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.webExercises.CountDistinct" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.webExercises.CountDistinct" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -620,6 +628,12 @@
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.webExercises.Hurricane" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="105" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section3.webExercises.NPerLine" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.webExercises.NPerLine" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section3.webExercises.QuarterbackRating" type="Application" factoryName="Application">
@@ -653,6 +667,8 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.webExercises.Binary2" />
+      <item itemvalue="Application.chapter1.section3.webExercises.NPerLine" />
       <item itemvalue="Application.chapter1.section3.webExercises.ThueMorse" />
       <item itemvalue="Application.chapter1.section3.webExercises.DecimalExpansion" />
       <item itemvalue="Application.chapter1.section3.webExercises.QuarterbackRating" />
