@@ -135,6 +135,7 @@
     "Application.chapter1.section3.webExercises.DecimalExpansion.executor": "Run",
     "Application.chapter1.section3.webExercises.FamilySimulation.executor": "Run",
     "Application.chapter1.section3.webExercises.Hurricane.executor": "Run",
+    "Application.chapter1.section3.webExercises.ISBN2.executor": "Run",
     "Application.chapter1.section3.webExercises.NPerLine.executor": "Run",
     "Application.chapter1.section3.webExercises.QuarterbackRating.executor": "Run",
     "Application.chapter1.section3.webExercises.RGBtoHSV.executor": "Run",
@@ -149,7 +150,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.webExercises.NPerLine">
+  <component name="RunManager" selected="Application.chapter1.section3.webExercises.ISBN2">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -630,6 +631,12 @@
       <option name="PROGRAM_PARAMETERS" value="105" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.webExercises.ISBN2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.webExercises.ISBN2" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="020131452" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.webExercises.NPerLine" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.webExercises.NPerLine" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -667,6 +674,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.webExercises.ISBN2" />
       <item itemvalue="Application.chapter1.section3.webExercises.Binary2" />
       <item itemvalue="Application.chapter1.section3.webExercises.NPerLine" />
       <item itemvalue="Application.chapter1.section3.webExercises.ThueMorse" />
