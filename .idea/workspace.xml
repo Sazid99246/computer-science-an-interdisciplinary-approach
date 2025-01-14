@@ -133,6 +133,7 @@
     "Application.chapter1.section3.webExercises.CountDistinct.executor": "Run",
     "Application.chapter1.section3.webExercises.DayTime.executor": "Run",
     "Application.chapter1.section3.webExercises.DecimalExpansion.executor": "Run",
+    "Application.chapter1.section3.webExercises.Ex.executor": "Run",
     "Application.chapter1.section3.webExercises.FamilySimulation.executor": "Run",
     "Application.chapter1.section3.webExercises.Hurricane.executor": "Run",
     "Application.chapter1.section3.webExercises.ISBN2.executor": "Run",
@@ -153,7 +154,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.webExercises.Triangle">
+  <component name="RunManager" selected="Application.chapter1.section3.webExercises.Ex">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -623,6 +624,12 @@
       <option name="PROGRAM_PARAMETERS" value="1 33" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.webExercises.Ex" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.webExercises.Ex" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="3" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.webExercises.FamilySimulation" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.webExercises.FamilySimulation" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -695,6 +702,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.webExercises.Ex" />
       <item itemvalue="Application.chapter1.section3.webExercises.Triangle" />
       <item itemvalue="Application.chapter1.section3.webExercises.Pennies" />
       <item itemvalue="Application.chapter1.section3.webExercises.UPC" />
