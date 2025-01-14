@@ -157,7 +157,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.webExercises.Heart">
+  <component name="RunManager" selected="Application.chapter1.section3.webExercises.Season">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -653,7 +653,7 @@
     <configuration name="chapter1.section3.webExercises.Heart" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.webExercises.Heart" />
       <module name="computer-science-an-interdisciplinary-approach" />
-      <option name="PROGRAM_PARAMETERS" value="4" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
       <method v="2" />
     </configuration>
     <configuration name="chapter1.section3.webExercises.Hurricane" type="Application" factoryName="Application">
@@ -697,6 +697,12 @@
       <module name="computer-science-an-interdisciplinary-approach" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.webExercises.Season" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.webExercises.Season" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="3 21" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.webExercises.ThueMorse" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.webExercises.ThueMorse" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -725,6 +731,7 @@
     <list>
       <item itemvalue="Application.chapter1.section3.webExercises.Diamond" />
       <item itemvalue="Application.chapter1.section3.webExercises.Heart" />
+      <item itemvalue="Application.chapter1.section3.webExercises.Season" />
       <item itemvalue="Application.chapter1.section3.webExercises.BowTie" />
       <item itemvalue="Application.chapter1.section3.webExercises.Ex" />
       <item itemvalue="Application.chapter1.section3.webExercises.Triangle" />
