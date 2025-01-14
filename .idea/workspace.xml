@@ -142,6 +142,7 @@
     "Application.chapter1.section3.webExercises.RGBtoHSV.executor": "Run",
     "Application.chapter1.section3.webExercises.RollDie.executor": "Run",
     "Application.chapter1.section3.webExercises.ThueMorse.executor": "Run",
+    "Application.chapter1.section3.webExercises.Triangle.executor": "Run",
     "Application.chapter1.section3.webExercises.UPC.executor": "Run",
     "Attach to process.pid 13608.executor": "ProcessAttachDebug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -152,7 +153,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.webExercises.Pennies">
+  <component name="RunManager" selected="Application.chapter1.section3.webExercises.Triangle">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -674,6 +675,12 @@
       <option name="PROGRAM_PARAMETERS" value="3" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section3.webExercises.Triangle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section3.webExercises.Triangle" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter1.section3.webExercises.UPC" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section3.webExercises.UPC" />
       <module name="computer-science-an-interdisciplinary-approach" />
@@ -688,6 +695,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section3.webExercises.Triangle" />
       <item itemvalue="Application.chapter1.section3.webExercises.Pennies" />
       <item itemvalue="Application.chapter1.section3.webExercises.UPC" />
       <item itemvalue="Application.chapter1.section3.webExercises.ISBN2" />
