@@ -154,6 +154,8 @@
     "Application.chapter1.section4.examples.CouponCollector.executor": "Run",
     "Application.chapter1.section4.examples.PrimeSieve.executor": "Run",
     "Application.chapter1.section4.examples.Sample.executor": "Run",
+    "Application.chapter1.section4.exercises.Deal.executor": "Run",
+    "Application.chapter1.section4.exercises.HowMany.executor": "Run",
     "Attach to process.pid 13608.executor": "ProcessAttachDebug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
@@ -163,7 +165,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section4.exercises.Deal">
+  <component name="RunManager" selected="Application.chapter1.section4.exercises.HowMany">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -757,6 +759,12 @@
       <option name="PROGRAM_PARAMETERS" value="3" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section4.exercises.HowMany" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section4.exercises.HowMany" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="2 3 4" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -769,6 +777,7 @@
       <item itemvalue="Application.chapter1.section4.examples.PrimeSieve" />
       <item itemvalue="Application.chapter1.section4.examples.Sample" />
       <item itemvalue="Application.chapter1.section4.exercises.Deal" />
+      <item itemvalue="Application.chapter1.section4.exercises.HowMany" />
       <item itemvalue="Application.chapter1.section3.webExercises.Diamond" />
       <item itemvalue="Application.chapter1.section3.webExercises.Heart" />
       <item itemvalue="Application.chapter1.section3.webExercises.Season" />
