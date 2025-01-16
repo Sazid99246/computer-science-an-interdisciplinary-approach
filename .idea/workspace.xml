@@ -16,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -149,6 +150,10 @@
     "Application.chapter1.section3.webExercises.ThueMorse.executor": "Run",
     "Application.chapter1.section3.webExercises.Triangle.executor": "Run",
     "Application.chapter1.section3.webExercises.UPC.executor": "Run",
+    "Application.chapter1.section3.webExercises.Zodaic.executor": "Run",
+    "Application.chapter1.section4.examples.CouponCollector.executor": "Run",
+    "Application.chapter1.section4.examples.PrimeSieve.executor": "Run",
+    "Application.chapter1.section4.examples.Sample.executor": "Run",
     "Attach to process.pid 13608.executor": "ProcessAttachDebug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
@@ -158,7 +163,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.chapter1.section3.webExercises.Zodaic">
+  <component name="RunManager" selected="Application.chapter1.section4.exercises.Deal">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -728,6 +733,30 @@
       <option name="PROGRAM_PARAMETERS" value="1 20" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1.section4.examples.CouponCollector" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section4.examples.CouponCollector" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="1000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section4.examples.PrimeSieve" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section4.examples.PrimeSieve" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="25" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section4.examples.Sample" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section4.examples.Sample" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="6 49" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section4.exercises.Deal" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section4.exercises.Deal" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="3" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -736,6 +765,10 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.chapter1.section4.examples.CouponCollector" />
+      <item itemvalue="Application.chapter1.section4.examples.PrimeSieve" />
+      <item itemvalue="Application.chapter1.section4.examples.Sample" />
+      <item itemvalue="Application.chapter1.section4.exercises.Deal" />
       <item itemvalue="Application.chapter1.section3.webExercises.Diamond" />
       <item itemvalue="Application.chapter1.section3.webExercises.Heart" />
       <item itemvalue="Application.chapter1.section3.webExercises.Season" />
