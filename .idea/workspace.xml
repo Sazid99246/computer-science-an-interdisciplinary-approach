@@ -762,7 +762,7 @@
     <configuration name="chapter1.section4.exercises.HowMany" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section4.exercises.HowMany" />
       <module name="computer-science-an-interdisciplinary-approach" />
-      <option name="PROGRAM_PARAMETERS" value="2 3 4" />
+      <option name="PROGRAM_PARAMETERS" value="2" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
