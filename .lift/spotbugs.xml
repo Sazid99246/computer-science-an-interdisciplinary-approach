@@ -38,7 +38,7 @@
     </Match>
 
     <!-- from fb-contrib-7.4.3.jar plugin -->
-    <!-- FCBL_FIELD_COULD_BE_LOCAL redundant with PMD -->  
+    <!-- FCBL_FIELD_COULD_BE_LOCAL redundant with PMD -->
     <!-- PME_POOR_MANS_ENUM  we disallow enum and seems to have false positives -->
     <!-- OCP_OVERLY_CONCRETE_PARAMETER wants Picture to be defines as java.awt.event.ActionListener -->
     <!-- NAB_NEEDLESS_BOXING_VALUEOF wants stack.push(Integer.valueOf(s)) instead of stack.push(Integer.parseInt(s)) -->
@@ -50,7 +50,7 @@
     -->
 
     <!-- TODO: use java.nio.file.Files.newInputStream and java.nio.file.Files.newOutputStream
-               to eliminate IOI_USE_OF_FILE_STREAM_CONSTRUCTORS 
+               to eliminate IOI_USE_OF_FILE_STREAM_CONSTRUCTORS
     -->
 
     <Match>
@@ -101,7 +101,7 @@
                           WEM_WEAK_EXCEPTION_MESSAGING" />
     </Match>
 
-    
+
 
     <!-- Ignore DLS_DEAD_LOCAL_STORE for low-confidence warnings (3)
          Otherwise it will flag code like the following:
@@ -219,7 +219,7 @@
 
     <!-- generating random integers before StdRandom.uniform() is introduced -->
     <Match>
-        <Class name = "~Coupon|CouponCollector|TwentyQuestions|Craps|Functions|
+        <Class name = "~Coupon|CouponCollector|chapter1.section5.examples.TwentyQuestions|Craps|Functions|
                               |Mozart|Birthday|Birthdays|RollDie|DiceHistogram|SumOfTwoDice|
                               |RandomStudent|Sicherman|Chaos|DiscreteDistribution|
                               |MonteHall|MostLikelyRoll" />

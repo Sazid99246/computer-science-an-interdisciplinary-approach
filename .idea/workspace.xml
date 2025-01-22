@@ -36,19 +36,22 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Barnsley.executor": "Run",
-    "Application.PlayThatTune.executor": "Run",
-    "Application.chapter1.section1.examples.HelloWorld.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Barnsley.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PlayThatTune.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwentyQuestions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.chapter1.section1.examples.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.chapter1.section5.RandomSeq.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\computer-science-an-interdisciplinary-approach\.lift" />
@@ -56,7 +59,7 @@
       <recent name="D:\computer-science-an-interdisciplinary-approach" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.chapter1.section1.examples.HelloWorld">
+  <component name="RunManager" selected="Application.MaxMin">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -67,10 +70,22 @@
       <option name="PROGRAM_PARAMETERS" value="10000" />
       <method v="2" />
     </configuration>
+    <configuration name="MaxMin" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MaxMin" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="23 45 17 56 32 89 10 53 32 34 16" />
+      <method v="2" />
+    </configuration>
     <configuration name="PlayThatTune" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="PlayThatTune" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="elise.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TwentyQuestions" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section5.examples.TwentyQuestions" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -80,6 +95,12 @@
     <configuration name="chapter1.section1.examples.HelloWorld" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="chapter1.section1.examples.HelloWorld" />
       <module name="computer-science-an-interdisciplinary-approach" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter1.section5.RandomSeq" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter1.section5.examples.RandomSeq" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">

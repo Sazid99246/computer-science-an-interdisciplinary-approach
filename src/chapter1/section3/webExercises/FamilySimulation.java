@@ -47,7 +47,7 @@ public class FamilySimulation {
 
         double averageChildren = totalChildren / numTrials;
 
-        System.out.println("Estimated Average Number of Children: " + averageChildren);
+        System.out.println("Estimated chapter1.section5.examples.Average Number of Children: " + averageChildren);
         System.out.println("Frequency of 2 Children: " + count2);
         System.out.println("Frequency of 3 Children: " + count3);
         System.out.println("Frequency of 4 Children: " + count4);

@@ -188,7 +188,7 @@
 
     <!-- Calls Math.random() -->
     <suppress id="AvoidMathRandom"
-              files="(CouponCollector|Coupon|Flip|Gambler|RandomInt|RandomSeq|RandomSurfer|Sample|SelfAvoidingWalk|TwentyQuestions|PerfectShuffle).java"/>
+              files="(CouponCollector|Coupon|Flip|Gambler|RandomInt|chapter1.section5.examples.RandomSeq|RandomSurfer|Sample|SelfAvoidingWalk|chapter1.section5.examples.TwentyQuestions|PerfectShuffle).java"/>
 
     <!-- use type parameter upper and lower bounds -->
     <suppress id="TypeParameter"
@@ -299,7 +299,7 @@
     <suppress id="Header"
               files="^(?!.*\b(readme.txt|
                          |HelloWorld.java|HiFour.java|DrawCat.java|SumThree.java|Ordered.java|GreatCircle.java|RGBtoCMYK.java|
-                         |Bits.java|Checkerboard.java|NoonSnooze.java|RandomWalker.java|RandomWalkers.java|RollDice.java|  
+                         |Bits.java|Checkerboard.java|NoonSnooze.java|RandomWalker.java|RandomWalkers.java|RollDice.java|
                          |NBody.java|
                          |Transform2D.java|Sierpinski.java|Art.java|
                          |LFSR.java|PhotoMagic.java|

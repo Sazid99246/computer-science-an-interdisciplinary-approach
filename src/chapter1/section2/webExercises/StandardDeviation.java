@@ -25,7 +25,7 @@ public class StandardDeviation {
         System.out.println("n3 = " + n3);
         System.out.println("n4 = " + n4);
         System.out.println("n5 = " + n5);
-        System.out.println("Average of all numbers = " + avg);
+        System.out.println("chapter1.section5.examples.Average of all numbers = " + avg);
         System.out.println("Minimum of all numbers = " + min);
         System.out.println("Maximum of all numbers = " + max);
         System.out.println("Standard Deviation = " + stdDeviation);
