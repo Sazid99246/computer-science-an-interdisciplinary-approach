@@ -71,7 +71,7 @@
       <method v="2" />
     </configuration>
     <configuration name="MaxMin" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="MaxMin" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.section5.exercises.MaxMin" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="23 45 17 56 32 89 10 53 32 34 16" />
       <method v="2" />
