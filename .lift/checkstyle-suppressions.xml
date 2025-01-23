@@ -330,7 +330,7 @@
                          |Greeting|SayHelloWorld|
                          |Ordered|GreatCircle|RGBtoCMYK|
                          |Bits|Checkerboard|NoonSnooze|
-                         |Triangle|CMYKtoRGB|Brighter|
+                         |chapter1.section5.examples.Triangle|CMYKtoRGB|Brighter|
                          |MusicLoop|MajorScale|DeluxeMajorScale|
                          |RandomWalker|RandomWalkers|Duotone|SayMilitaryTime|
                          |SoundWaveVisualizer|DiceHistogram|EchoFilter|MusicalDiceGame|
