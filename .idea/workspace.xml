@@ -40,6 +40,7 @@
   "keyToString": {
     "Application.Barnsley.executor": "Run",
     "Application.MaxMin.executor": "Run",
+    "Application.MaxOfThreeNumbers.executor": "Run",
     "Application.PlayThatTune.executor": "Run",
     "Application.PlotFilter.executor": "Run",
     "Application.Triangle.executor": "Run",
@@ -61,7 +62,7 @@
       <recent name="D:\computer-science-an-interdisciplinary-approach" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PlotFilter">
+  <component name="RunManager" selected="Application.MaxOfThreeNumbers">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -76,6 +77,12 @@
       <option name="MAIN_CLASS_NAME" value="chapter1.section5.exercises.MaxMin" />
       <module name="computer-science-an-interdisciplinary-approach" />
       <option name="PROGRAM_PARAMETERS" value="23 45 17 56 32 89 10 53 32 34 16" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MaxOfThreeNumbers" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter2.section1.exercises.MaxOfThreeNumbers" />
+      <module name="computer-science-an-interdisciplinary-approach" />
+      <option name="PROGRAM_PARAMETERS" value="2 3 4" />
       <method v="2" />
     </configuration>
     <configuration name="PlayThatTune" type="Application" factoryName="Application">
